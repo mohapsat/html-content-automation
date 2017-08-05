@@ -13,6 +13,9 @@ from jinja2 import FileSystemLoader, Environment
 
 templateLoader = FileSystemLoader("Templates")
 
+# ref: http://web1-buzz.shutterfly.com/h/sfly/y/2017/P44962_mmb.html
+
+
 # An environment provides the data necessary to read and
 #   parse our templates.  We pass in the loader object here.
 
